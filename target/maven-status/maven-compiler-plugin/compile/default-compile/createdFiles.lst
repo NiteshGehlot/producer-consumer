@@ -1,0 +1,4 @@
+org\example\Consumer.class
+org\example\MessageProcessor.class
+org\example\Producer.class
+org\example\MessageQueue.class
