@@ -23,7 +23,9 @@ java -cp out org.example.MessageProcessor
 
 ✅ Running Unit Tests
 1. Compile the test files
+   
 javac -cp .:junit-5.9.2.jar -d out test/java/org/example/*.java
 
-2. Run the tests
-   java -jar junit-platform-console-standalone-1.9.2.jar --classpath out --select-package org.example
+3. Run the tests
+   
+java -jar junit-platform-console-standalone-1.9.2.jar --classpath out --select-package org.example
